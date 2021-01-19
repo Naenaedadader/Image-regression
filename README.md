@@ -11,4 +11,4 @@ Third using resnet18 and sigmoid_fun which y range is [-1~1] to train modle.
 
 Fourth find learning rate then see the result.
 
-Finally using OpenCV to verify the modle.
+Finally using new example which was created from OpenCV to verify the modle's result.
